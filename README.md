@@ -1,4 +1,4 @@
-# LegalTech Marketplace — MEAN (MongoDB · Express · Angular · Node.js)
+# LegalTech  — MEAN (MongoDB · Express · Angular · Node.js)
 
 Plateforme de mise en relation avec les avocats et notaires en Tunisie (PFE).
 Basée sur le BMC et les diagrammes (cas d'utilisation, classes, séquence).
